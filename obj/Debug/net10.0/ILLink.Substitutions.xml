@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="mPj">
+    <resource name="FSharpSignatureData.mPj" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.mPj" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.mPj" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.mPj" action="remove"></resource>
+    <resource name="FSharpOptimizationData.mPj" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.mPj" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.mPj" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.mPj" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.mPj" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.mPj" action="remove"></resource>
+  </assembly>
+</linker>
